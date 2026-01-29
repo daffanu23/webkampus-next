@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Opsional: Biar scrollnya halus saat klik tombol cari */
+html {
+  scroll-behavior: smooth;
+}
